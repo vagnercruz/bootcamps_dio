@@ -3,8 +3,6 @@
 </p>
 <h1 align=center>Bootcamps DIO</h1>
 
-> *Bootcamp em andamento*
-
 Repositório criado para armazenar todos os projetos e desafios de códigos desenvolvidos nos bootcamps ofertados pela <a href=https://web.dio.me/home/>Digital Innovation One</a> (DIO).
 
 | Bootcamp | Andamento |
