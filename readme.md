@@ -7,9 +7,11 @@ Repositório criado para armazenar todos os projetos e desafios de códigos dese
 
 | Bootcamp | Andamento |
 | --- | --- |
-| <strong>Python AI Backend Developer</strong> <br> <img width="200px" src="https://hermes.dio.me/tracks/648ef080-6c4b-4e54-bf72-34f62030f350.png"> | Em andamento |
+| <strong>Blockchain Developer with Solidity</strong> <br> <img width="200px" src="https://hermes.dio.me/tracks/2703d237-34d5-4f9a-abd3-63322d3b2789.png"> | Em andamento |
 
 
 ## Projetos
 - **``Contribuindo em um Projeto Open Source no GitHub``**
   - *Criação de um projeto no Github.*
+
+
